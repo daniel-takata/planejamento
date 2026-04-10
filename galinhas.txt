@@ -1,0 +1,13 @@
+Bloco	Tratamento	Resposta
+1	O	340
+1	E	402
+1	F	389
+2	O	288
+2	E	340
+2	F	337
+3	O	295
+3	E	343
+3	F	373
+4	O	313
+4	E	341
+4	F	302
