@@ -1,0 +1,49 @@
+Campo	Solo	Fertilizante	Resposta
+I	Arenoso	Organico	20.44
+I	Arenoso	Organico	19.72
+I	Arenoso	Quimico	22.42
+I	Arenoso	Quimico	22.09
+I	Arenoso	Composto	20.68
+I	Arenoso	Composto	20.44
+I	Arenoso	Controle (sem fertilizante)	18.85
+I	Arenoso	Controle (sem fertilizante)	19.31
+I	Franco	Organico	22
+I	Franco	Organico	20.56
+I	Franco	Quimico	24.23
+I	Franco	Quimico	22.45
+I	Franco	Composto	21.07
+I	Franco	Composto	22.99
+I	Franco	Controle (sem fertilizante)	20.75
+I	Franco	Controle (sem fertilizante)	20.56
+II	Arenoso	Organico	21.74
+II	Arenoso	Organico	21.03
+II	Arenoso	Quimico	22.39
+II	Arenoso	Quimico	22.27
+II	Arenoso	Composto	22.61
+II	Arenoso	Composto	21.37
+II	Arenoso	Controle (sem fertilizante)	19.37
+II	Arenoso	Controle (sem fertilizante)	20
+II	Franco	Organico	22
+II	Franco	Organico	22.55
+II	Franco	Quimico	23.56
+II	Franco	Quimico	23.55
+II	Franco	Composto	23.34
+II	Franco	Composto	22.46
+II	Franco	Controle (sem fertilizante)	19.87
+II	Franco	Controle (sem fertilizante)	19.62
+III	Arenoso	Organico	21.74
+III	Arenoso	Organico	22.31
+III	Arenoso	Quimico	22.29
+III	Arenoso	Quimico	22.84
+III	Arenoso	Composto	22.23
+III	Arenoso	Composto	23.8
+III	Arenoso	Controle (sem fertilizante)	21.28
+III	Arenoso	Controle (sem fertilizante)	20.15
+III	Franco	Organico	23.33
+III	Franco	Organico	22.94
+III	Franco	Quimico	23.57
+III	Franco	Quimico	23.72
+III	Franco	Composto	22.56
+III	Franco	Composto	23.24
+III	Franco	Controle (sem fertilizante)	21.41
+III	Franco	Controle (sem fertilizante)	20.05
