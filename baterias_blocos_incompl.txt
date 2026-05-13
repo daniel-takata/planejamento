@@ -1,0 +1,13 @@
+modelo	temperatura	duracao
+iPhone12	10	11
+iPhone12Pro	10	13.5
+iPhone12ProMax	10	18.5
+iPhone12Mini	20	8.7
+iPhone12Pro	20	13.7
+iPhone12ProMax	20	14.9
+iPhone12Mini	30	7.4
+iPhone12	30	10.7
+iPhone12ProMax	30	10.5
+iPhone12Mini	40	6.8
+iPhone12	40	8
+iPhone12Pro	40	11.8
