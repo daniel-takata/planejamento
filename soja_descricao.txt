@@ -1,0 +1,34 @@
+Seja um experimento agrícola para comparar cinco fertilizantes:
+
+Tratamentos:
+A = Fertilizante A
+B = Fertilizante B
+C = Fertilizante C
+D = Fertilizante D
+E = Fertilizante E
+
+As duas fontes de variação controladas são:
+
+Linhas = diferença de umidade do solo
+Linha 1 = solo muito úmido
+Linha 2 = úmido
+Linha 3 = médio
+Linha 4 = seco
+Linha 5 = muito seco
+
+Colunas = diferença de luminosidade
+Coluna 1 = pouca luz
+Coluna 2 = luz moderada
+Coluna 3 = média
+Coluna 4 = alta
+Coluna 5 = muito alta
+
+A resposta é produção de soja (kg/parcela).
+
+
+	C1	C2	C3	C4	C5
+Linha 1	A,A	B,B	C,C	D,D	E,E
+Linha 2	B,B	C,C	D,D	E,E	A,A
+Linha 3	C,C	D,D	E,E	A,A	B,B
+Linha 4	D,D	E,E	A,A	B,B	C,C
+Linha 5	E,E	A,A	B,B	C,C	D,D
